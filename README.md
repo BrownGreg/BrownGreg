@@ -19,7 +19,7 @@ I am a fullstack web and mobile developer with 3 years of experience in creating
 ## 🎓 Education
 
 - **Tech & Code Factory**: Degree in Web and Mobile Development (3 years)
-- **Hetic**: Data Science Training (ongoing)
+- **Hetic**: Data Science Training (ongoing) (2026)
 
 ## 📫 Contact
 
